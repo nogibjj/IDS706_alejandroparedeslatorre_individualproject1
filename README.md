@@ -23,8 +23,7 @@ According to the requirement we have
 
 ## A quick demo for this project
 
-[Demo Video](https://youtu.be/7JTtqLkyQR0)
-
+[![Demo Video](https://img.youtube.com/vi/7JTtqLkyQR0/0.jpg)](https://www.youtube.com/watch?v=7JTtqLkyQR0)
 
 ## Purpose of project
 The purpose of this project is to have a dataframe as input and compute the mean, median, std and plot some charts. To test this function the file test_main.py is used
