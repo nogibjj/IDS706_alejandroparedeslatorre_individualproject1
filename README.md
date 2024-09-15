@@ -9,7 +9,7 @@ Individual project IDS-706 Alejandro Paredes La Torre
 
 This repo contains a brief implementation of basic descriptive metrics for the Boston Housing dataset. If you want to use this just refer this to a codespace in github and wait for the devcontainer to execute the Makefile that execute the following: install, format, lint, test.
 
-According to the requirement it gets added
+According to the requirement we have
 
 * `Makefile`
 
@@ -20,6 +20,11 @@ According to the requirement it gets added
 * `githubactions` 
 
 * `.devcontainer` for Githubcodespace 
+
+## A quick demo for this project
+
+[Demo Video](https://youtu.be/7JTtqLkyQR0)
+
 
 ## Purpose of project
 The purpose of this project is to have a dataframe as input and compute the mean, median, std and plot some charts. To test this function the file test_main.py is used
